@@ -34,6 +34,13 @@ Checkout: Users can proceed to checkout, enter shipping information, and make on
 ## System Architecture:
 ![coffeshop_project](https://github.com/mayals/CoffeeShop_django_v2/assets/48769543/43772f4f-d782-4cb2-bfcf-6573ba242832)
 
+
+## ER Diagram:
+![Coffeeshop_dbdiagram](https://github.com/mayals/CoffeeShop_django_v2/assets/48769543/15f0389e-011b-4676-b276-a001aed6de95)
+
+https://dbdiagram.io/d/Coffeeshop-6505b34302bd1c4a5eb1811a
+
+
 ## User Workflow:
 User Registration and Authentication:
 
@@ -92,10 +99,7 @@ By following this project outline, you can create a functional CoffeeShop Django
 
 
 
-## ER Diagram:
-![Coffeeshop_dbdiagram](https://github.com/mayals/CoffeeShop_django_v2/assets/48769543/15f0389e-011b-4676-b276-a001aed6de95)
 
-https://dbdiagram.io/d/Coffeeshop-6505b34302bd1c4a5eb1811a
 
 
 ## Getting Started:
