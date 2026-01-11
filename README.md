@@ -31,6 +31,8 @@ Users can create an order by adding item to the cart after decide it's quantity.
 Checkout: Users can proceed to checkout, enter shipping information, and make online payments using a payment gateway.
 
 
+## System Architecture:
+![coffeshop_project](https://github.com/mayals/CoffeeShop_django_v2/assets/48769543/43772f4f-d782-4cb2-bfcf-6573ba242832)
 
 ## User Workflow:
 User Registration and Authentication:
@@ -88,8 +90,6 @@ Provide clear documentation for setting up and running the project, including in
 By following this project outline, you can create a functional CoffeeShop Django application that allows users to browse, shop, and interact with coffee products online while maintaining a secure and user-friendly experience.
 
 
-## System Architecture:
-![coffeshop_project](https://github.com/mayals/CoffeeShop_django_v2/assets/48769543/43772f4f-d782-4cb2-bfcf-6573ba242832)
 
 
 ## ER Diagram:
